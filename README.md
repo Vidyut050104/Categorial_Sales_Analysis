@@ -14,3 +14,10 @@ I explored various techniques in Power BI to create engaging dashboards. Made us
 
 ## ✤ Task 3 - Communicating Insights & Analysis
 I identified areas for improvement and effectively conveyed findings and insights. This project emphasized the importance of clear communication in data visualization.
+
+# Categorial Sales Data Analysis
+
+![Home Page](https://raw.githubusercontent.com/username/repository/branch/images/screenshot.png)
+
+## Description
+Your project description here.
