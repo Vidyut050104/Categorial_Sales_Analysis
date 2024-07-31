@@ -1,6 +1,6 @@
 # Categorial_Sales_Analysis
 
-➼ During my trainig program at FINLATICS , I consolidated and visualized sales, customer, and product data, which resulted in a 20% increase in sales and identifying areas that need improvement through data-driven promotional strategies.
+➼ During my training program at FINLATICS, I consolidated and visualized sales, customer, and product data, which resulted in a 20% increase in sales and identified areas that need improvement through data-driven promotional strategies.
 
 ➼ By analyzing customer behavior and purchase patterns, I identified key segments and optimized marketing efforts, leading to a 15% improvement in customer retention rates. Additionally, the interactive dashboards provided real-time product analysis and also employee data analysis which helped understand employee efficiency, enhancing overall supply chain efficiency.
 
@@ -17,7 +17,7 @@ I identified areas for improvement and effectively conveyed findings and insight
 
 # Categorial Sales Data Analysis
 
-![Home Page](https://raw.githubusercontent.com/username/repository/branch/images/screenshot.png)
+![Home Page](https://github.com/Vidyut050104/Categorial_Sales_Analysis/blob/main/Home%20Page.png?raw=true)
 
 ## Description
 Your project description here.
